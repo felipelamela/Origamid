@@ -25,7 +25,7 @@ function App() {
             checked={cores.includes(cor)}
             onChange={handleChange}
           />
-          {cor.toUpperCase()}
+          {cor}
         </label>
       ))}
     </form>
