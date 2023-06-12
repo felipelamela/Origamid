@@ -1,7 +1,0 @@
-.containerSec {
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 930px;
-  margin: 3rem auto;
-  animation: var(--inLeftAnimation)
-}
